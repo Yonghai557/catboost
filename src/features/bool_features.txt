@@ -1,5 +1,0 @@
-is_tablet
-nfc_support
-is_banner
-is_video
-is_weekday
